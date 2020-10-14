@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T08:21:03.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="3QcF_uq5KJzuzEEK50Gm" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T08:33:16.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="9upGIstVPQgLHUdF6gWZ" version="13.7.9" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-6" value="USG6355E" style="shape=mxgraph.cisco.controllers_and_modules.service_module;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="463" y="180" width="57" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-9" value="S6720&lt;br&gt;核心交换机" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-9" value="S6720&lt;br&gt;核心交换机&lt;br&gt;10.100.100.1" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="328.5" y="350" width="101" height="55" as="geometry" />
         </mxCell>
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-15" value="S5720S&lt;br&gt;12层汇聚交换机" style="shape=mxgraph.cisco.wireless.wlan_controller;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -109,10 +109,10 @@
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-72" value="S5100" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="719" y="446" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-73" value="S5100" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="719" y="542" width="101" height="50" as="geometry" />
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-73" value="S1730S" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="719" y="542" width="101" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-74" value="S5100" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-74" value="S1730S" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="719" y="663" width="101" height="50" as="geometry" />
         </mxCell>
       </root>
