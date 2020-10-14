@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T06:31:36.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="7VGBEt954XKdt7tuRh9-" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T06:34:28.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="qS5KRosu5MFjXE6eQF3O" version="13.7.9" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1422" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -38,19 +38,31 @@
           <mxGeometry x="381" y="362.5" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-47" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="365.5" width="10" height="97" as="geometry" />
+          <mxGeometry x="374" y="365.5" width="10" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-48" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="299" y="616" width="160" height="10" as="geometry" />
+          <mxGeometry x="298" y="522" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-49" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="551" width="10" height="65" as="geometry" />
+          <mxGeometry x="374" y="494" width="10" height="36" as="geometry" />
         </mxCell>
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-50" value="server交换机" style="shape=mxgraph.cisco.wireless.wlan_controller;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="328.5" y="468.5" width="101" height="56" as="geometry" />
+          <mxGeometry x="328.5" y="410" width="101" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1Zsn9L5nUuaMn7X5BciJ-51" value="&lt;br&gt;10.110.18.0/24" style="shape=mxgraph.cisco.wireless.wlan_controller;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="600" width="101" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-54" value="" style="shape=mxgraph.cisco.servers.storage_server;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="271" y="570" width="54" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-55" value="" style="shape=mxgraph.cisco.servers.storage_server;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="570" width="54" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-56" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="526" width="10" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="1Zsn9L5nUuaMn7X5BciJ-57" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="525" width="10" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
